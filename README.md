@@ -15,7 +15,6 @@ This repository contains deep learning algorithms and examples using Jupyter Not
 
 - Python 3.10.15
 - Tensorflow 2.17.0 With CUDA 12.4
-- 
 
 ## Datasets
 - Dataset Link 10 Class : [GDrive](https://drive.google.com/file/d/1p8Flgeg-pd1pNdc4-KMO3vKlT8XLc1wt/view?usp=sharing)
