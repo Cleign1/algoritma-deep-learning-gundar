@@ -4,3 +4,6 @@ venv
 
 # zip file
 *.zip
+
+# dataset files
+dataset
