@@ -7,3 +7,7 @@ venv
 
 # dataset files
 dataset
+
+# ignore keras model
+*.h5
+*.keras
