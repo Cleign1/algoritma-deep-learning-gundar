@@ -19,6 +19,7 @@ This repository contains deep learning algorithms and examples using Jupyter Not
 ## Datasets
 - Dataset Link 10 Class : [GDrive](https://drive.google.com/file/d/1p8Flgeg-pd1pNdc4-KMO3vKlT8XLc1wt/view?usp=sharing)
 - Dataset Link 3 Class : [GDrive](https://drive.google.com/file/d/1Q2P5aRAs04egYSccMXJanY44ABlJcHVf/view?usp=sharing)
+- Dataset Link 2 Class : [GDrive](https://drive.google.com/file/d/17wxt5XNTo9c-VNlhzRDE8OTpUrTwRY-B/view?usp=sharing)
 
 ## Installation
 1. Create a compute vm instance on GCP with the following specifications:
