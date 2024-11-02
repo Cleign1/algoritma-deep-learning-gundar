@@ -23,6 +23,9 @@ This repository contains deep learning algorithms and examples using Jupyter Not
 - Dataset Link 3 Class : [GDrive](https://drive.google.com/file/d/1Q2P5aRAs04egYSccMXJanY44ABlJcHVf/view?usp=sharing)
 - Dataset Link 2 Class : [GDrive](https://drive.google.com/file/d/17wxt5XNTo9c-VNlhzRDE8OTpUrTwRY-B/view?usp=sharing)
 
+### Dataset usd in Tugas2, [Link](https://github.com/Cleign1/algoritma-deep-learning-gundar/blob/main/tugas2/fashion_mnist.ipynb)
+- Fashion MNIST from tensorflow, [The fashion mnist guide](https://www.tensorflow.org/tutorials/keras/classification)
+
 ## Installation
 1. Create a compute vm instance on GCP with the following specifications:
     - OS: Google, Deep Learning VM for TensorFlow 2.17 with CUDA 12.3, M125, Debian 11, Python 3.10, with TensorFlow 2.17 for CUDA 12.3 with Intel MKL-DNN preinstalled.
