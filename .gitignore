@@ -1,6 +1,7 @@
 # ignore venv file
 venv
 .idea
+.env
 
 # zip file
 *.zip
