@@ -6,6 +6,11 @@ venv
 # zip file
 *.zip
 
+# tar file
+*.tar.gz
+
+/tugas4/aclImdb
+
 # dataset files
 dataset
 
